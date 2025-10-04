@@ -1,0 +1,16 @@
+.heading{
+    font-size: 70px;
+    font-weight: 900;
+}
+.content{
+    font-size: 30px;
+}
+.button{
+    font-size: 20px;
+    font-weight: bold;
+    width: 300px;
+    height: 100px;
+}
+#Qoute{
+     box-shadow: 5px 5px 40px 2px rgba(207, 10, 10, 0.5);
+}
